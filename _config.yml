@@ -15,11 +15,11 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: Rabin shrestha
+title: end2end
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
 url: http://nandomoreira.me
-baseurl: "/Rabin Shrestha"
+baseurl: "/end2end"
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
@@ -33,14 +33,12 @@ author:
   job       : Full stack developer
   bio       : "rails developer with react and foundation as hammer and wrench :D"
   thumb     : /images/author.jpg
-  email     : danieldangol@gmail.com
-  # url       : https://nandomoreira.me
-  github    : https://github.com/jyapujuju
-  twitter   : https://twitter.com/rabinshrestha88
-  facebook  : https://facebook.com/rabin.shrestha.161214
+  email     : nandomoreira.me@gmail.com
+  url       : http://nandomoreira.me
+  github    : http://github.com/jyapujuju
+  twitter   : http://twitter.com/rabinshrestha88
+  facebook  : http://facebook.com/rabin.shrestha.161214
   linkedin  : http://linkedin.com/in/rabin-shrestha-9b0b0442
-  codepen   : https://codepen.io/jyapujuju/
-
 
 # navbar pages
 navbar:
